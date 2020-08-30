@@ -1,0 +1,60 @@
+#banner{
+    background-color: #3498db;
+   height: 100vh;
+}
+.banner{
+    text-align: center;
+    margin: 15%;
+}
+.navi{
+    padding: 2%;
+    
+}
+.nav-link{
+    color: white !important;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Ubuntu Mono', monospace;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+.nav-link:hover{
+    background-color: #0984e3;
+    border-radius: 10px;
+    text-shadow: 3px 0 rgb(83, 80, 80);
+    opacity: 0.8;
+}
+.dropdown-menu{
+    background-color: #353b48;
+}
+.dropdown-item{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+}
+.navbar-brand{
+    font-family: 'Press Start 2P', cursive;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    text-shadow: 3px 0 rgb(83, 80, 80);
+}
+h1{
+    color: #F79F1F;
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+h1 span{
+    color:#563d7c !important;
+}
+em{
+    font-size: 20px;
+    color: white;
+}
+.download{
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 18px;
+}
